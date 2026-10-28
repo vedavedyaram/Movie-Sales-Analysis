@@ -23,7 +23,7 @@ This project analyzes IMDb movie data using Microsoft Power BI to understand mov
 4. Correlation & Advanced Metrics
 
 ## 📁 Project File
-- `IMBD - COPY.pbix` — Power BI dashboard file.
+- `IMBD.pbix` — Power BI dashboard file.
 
 ## 🚀 How to Use
 1. Download the `.pbix` file from this repository.
